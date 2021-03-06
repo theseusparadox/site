@@ -5,11 +5,11 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
-    "clean": "gatsby clean",
-    "develop": "gatsby develop",
+    "build": "./node_modules/.bin/gatsby build",
+    "clean": "./node_modules/.bin/gatsby clean",
+    "develop": "./node_modules/.bin/gatsby develop",
     "start": "npm run develop",
-    "serve": "gatsby serve"
+    "serve": "./node_modules/.bin/gatsby serve"
   },
   "dependencies": {
     "gatsby-theme-musician": "^1.0.5",
