@@ -1,15 +1,12 @@
 {
   "private": true,
-  "name": "starter-musician-theme",
-  "description": "A starter site for using gatsby-theme-musician",
+  "name": "theseus-paradox",
+  "description": "Theseus Paradox website",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "./node_modules/.bin/gatsby build",
-    "clean": "./node_modules/.bin/gatsby clean",
-    "develop": "./node_modules/.bin/gatsby develop",
-    "start": "npm run develop",
-    "serve": "./node_modules/.bin/gatsby serve"
+    "compile": "ls -l "
+ 
   },
   "dependencies": {
     "gatsby-theme-musician": "^1.0.5",
