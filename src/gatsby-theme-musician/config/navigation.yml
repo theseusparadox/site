@@ -1,0 +1,5 @@
+navigation:
+  - text: Releases
+    url: "#releases"
+  - text: Contact
+    url: "#contact"

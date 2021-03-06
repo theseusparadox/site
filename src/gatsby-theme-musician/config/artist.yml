@@ -1,0 +1,18 @@
+artist:
+  name: Theseus Paradox
+  tagline: Humanity 2.0
+  # seo_title:
+  # seo_description:
+  # contact_twitter_username:
+  # contact_phone: 
+  # contact_email: 
+
+social:
+  - name: Instagram
+    url: https://instagram.com/theseusparadox_band
+  - name: Youtube
+    url: https://www.youtube.com/channel/UCsFgGF4JI7eo5ee3MffvvZw
+  - name: Spotify
+    url: https://spotify.com
+
+site_language: en
